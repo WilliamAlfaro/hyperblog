@@ -35,3 +35,14 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#post{
+    border: 1px solid lightseagreen;
+    margin: 2rem;
+}
+
+#post p{
+    color: gray;
+    font-size: small;
+    text-align: center;
+}
