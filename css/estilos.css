@@ -51,3 +51,16 @@ body{
     font-size: small;
     text-align: center;
 }
+    
+footer #footerPage{
+    width: 70%;
+    padding: 0;
+    border: 2px solid rgb(57, 41, 99);
+    margin: auto;
+}
+
+footer #footerPage p{
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(160, 160, 12);
+}
