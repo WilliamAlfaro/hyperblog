@@ -23,6 +23,11 @@ body{
     font-size: 0.8em;
 }
 
+#menu{
+    color: black;
+    font-size: small;
+    text-align: right;
+}
 
 #container{
     width: 70%;
